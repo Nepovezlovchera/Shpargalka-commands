@@ -1,1 +1,2 @@
 # Shpargalka-commands
+# idea
